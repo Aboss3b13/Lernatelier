@@ -1,14 +1,14 @@
 # Grob-Planung
 
-✍️ Fügen Sie hier Ihren Namen ein
+✍️ Abbas Raza
 
-✍️ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
+✍️ Schulstart - Herbstferien
 
 ## Leit-Satz
 
-✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
+✍️ Bis yu die Herbstferien will ich die Grundlagen von **cs** beherschen. Ich will vorallem Klassen anschauen und Objekt orientiertes Programmieren verstehen. Ich will Binäre Suche lernen sowie Neuralen Netzwerken. 
 
-## Arbeitspakete für dd.mm.yyyy
+## Arbeitspakete für 18.08.2023
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
