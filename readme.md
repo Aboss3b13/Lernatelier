@@ -16,7 +16,7 @@
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
+| Programm in VS gestartet | `Abbas`  | `Hallo Abbas`      |
 
 - [ ] ...
 - [ ] ...
