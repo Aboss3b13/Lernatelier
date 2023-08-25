@@ -4,6 +4,8 @@
 
 ✍️ 25.08.2023
 Ich will lernen was Klassen sind wie man sie ben[tyen kann und sie im Programm implimentieren.
+01.09.2023
+Files in C# offnen( Video, Text...)
 
 ## Leit-Satz
 
