@@ -2,7 +2,8 @@
 
 ✍️ Abbas Raza
 
-✍️ Schulstart - Herbstferien
+✍️ 25.08.2023
+Ich will lernen was Klassen sind wie man sie ben[tyen kann und sie im Programm implimentieren.
 
 ## Leit-Satz
 
