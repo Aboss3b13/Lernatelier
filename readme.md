@@ -1,13 +1,8 @@
 # Grob-Planung
+Ich will heute mein Taschenrechner fertig programmieren und falls es noch Zeit gibt auf die Module weiterzuarbeiten 
 
-✍️ Abbas Raza
-
-✍️ 15.09.2023
-Ich habe gerlernt was Klassen sind und wie ich sie benützen kann.
-Ich habe begonnen ein Taschenrechner App herzustellen.
-
-
-
+✍️ 22.09.2023
+Ich habe mein Taschenrechner fertig programmiert und mein Reflexion für den Lernperiode 1 geschrieben.
 
 ## Leit-Satz
 
@@ -21,12 +16,14 @@ Ich habe begonnen ein Taschenrechner App herzustellen.
 - [ ]Ich will and die Module weiterschaffen.
 
 
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Abbas`  | `Hallo Abbas`      |
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
 
-✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+Reflexion Lern Periode 1:
+Am Beginn des Schuljahres wusste ich nur ein Bisschen von Programmieren. Über die nächsten fünf Wochen habe ich Vieles im Lernatelier gelernt. Z.B wie Methoden/Funktionen, Klassen und Switch Case. Die ersten zwei Wochen habe ich Methoden und Switch Case angeschaut. Ich habe Klein-Programme hergestellt Z.B Random Number Generator, aber nur mit gerade Zahlen. 
+Dies führte zu eine meiner grösster Errungenschaften geführt: Wordle (auf Englisch)
+
+Ich habe dann über Windows Form Application recherchiert. Dies führte zu mein grüsster Errungenschaft. 
+Mein grösster Errungenschaft habe ich am 15.09.2023 erstellt. Mein erster Windows Form Application. In dieser Applikation habe ich Ein Taschenrechner programmiert. Am 22.09.2023 habe ich es fertig programmiert.
+
+Verbesserungsvorschlag:
+Ich konnte nicht immer alle Arbeitspaketen erledigen. Ich wollte Zum Beispiel ein Webservice herstellen, aber habe zu viel Zeit auf Programmieren von Wordle gebracht. Ich würde kleinere aber gleich so komplexe/ schwierige Arbeitspaketen erstellen, das es machbar ist.
